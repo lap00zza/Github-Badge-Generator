@@ -1,0 +1,12 @@
+node_modules/
+.env
+commands.sh
+scratch.js
+resources/badge_base.png
+resources/compose_over.png
+resources/gh_badge.png
+resources/mask_rect.png
+resources/temp_github_avatar.png
+resources/temp_github_avatar_res.png
+__cache__/*
+!__cache__/sample.png
